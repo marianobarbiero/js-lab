@@ -1,12 +1,10 @@
-// Temas que faltan: 
-
 /*
+   Temas: 
    
    - Arrays
    - callbacks
    - closure
    - self invocation function
-
 
 */
 
